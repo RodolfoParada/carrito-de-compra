@@ -1,0 +1,18 @@
+{
+  "name": "carrito-compras-tests",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo con Jest y TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "babel-jest": "^30.2.0",
+    "jest": "^30.2.0"
+  }
+}
