@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1767732475126" clover="3.2.0">
+  <project timestamp="1767732475126" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="11" coveredconditionals="9" methods="6" coveredmethods="6" elements="33" coveredelements="31" complexity="0" loc="16" ncloc="16" packages="1" files="3" classes="3"/>
+    <file name="api.js" path="/home/trimogesimo/Descargas/carrito-de-compra/src/api.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="2" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+    <file name="carrito.js" path="/home/trimogesimo/Descargas/carrito-de-compra/src/carrito.js">
+      <metrics statements="13" coveredstatements="13" conditionals="11" coveredconditionals="9" methods="4" coveredmethods="4"/>
+      <line num="5" count="7" type="stmt"/>
+      <line num="6" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="15" count="6" type="stmt"/>
+      <line num="21" count="3" type="stmt"/>
+      <line num="23" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="24" count="3" type="stmt"/>
+      <line num="25" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="30" count="2" type="stmt"/>
+    </file>
+    <file name="stockService.js" path="/home/trimogesimo/Descargas/carrito-de-compra/src/stockService.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="7" type="stmt"/>
+    </file>
+  </project>
+</coverage>
